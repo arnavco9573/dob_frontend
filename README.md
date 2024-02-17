@@ -9,7 +9,6 @@ This project allows users to input a date in the format DDMMYYYY and fetch the d
 ## Technologies Used
 
 - React.js
-- react-datepicker
 - HTML
 - CSS
 
