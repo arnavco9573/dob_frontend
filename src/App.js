@@ -15,6 +15,7 @@ function App() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': 'https://dob-frontend.onrender.com' 
         },
         body: JSON.stringify({ date }),
       });
